@@ -73,12 +73,12 @@ client.publish("Diplomado", output.c_str());
 } }
 
 -Posterior realizar la instalacion de las librerias de DHT sensor library for ESPx, PubSubClient y ArduinoJson, adicional hacer la conexion de DHT11 con la ESP32, como se muestra en la imagen
-![]
+![](https://github.com/RobertoPalacios17/PRACTICA-8/blob/main/Captura%20de%20pantalla%20WOKWI%20.png)
 
 Selecionaremos los 3 nodos que ocuparemos que se encuentran del lado izquierdo, posterior uniremos los nodos y cambiar el nombre , como lo muestra la imagen
-![]
+![](
 
 ###RESULTADOS
 Cuando haya funcionado, verás los los resultados como se muestra en la siguente imagen.
-![]
+![](
 
